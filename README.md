@@ -1,3 +1,7 @@
+A personal project made to plan and remind the user to workout, however can be used for any tasks if wanted
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
